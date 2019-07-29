@@ -1,0 +1,2 @@
+C:\Users\Training\Desktop\Training\A1\A2_2\bin\Debug\A2_2.exe.config
+C:\Users\Training\Desktop\Training\A1\A2_2\obj\Debug\A2_2.csprojResolveAssemblyReference.cache

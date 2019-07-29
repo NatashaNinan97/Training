@@ -1,0 +1,6 @@
+C:\Users\Training\Desktop\Training\4.0Features\4.0Features\bin\Debug\4.0Features.exe.config
+C:\Users\Training\Desktop\Training\4.0Features\4.0Features\bin\Debug\4.0Features.exe
+C:\Users\Training\Desktop\Training\4.0Features\4.0Features\bin\Debug\4.0Features.pdb
+C:\Users\Training\Desktop\Training\4.0Features\4.0Features\obj\Debug\4.0Features.csprojResolveAssemblyReference.cache
+C:\Users\Training\Desktop\Training\4.0Features\4.0Features\obj\Debug\4.0Features.exe
+C:\Users\Training\Desktop\Training\4.0Features\4.0Features\obj\Debug\4.0Features.pdb
